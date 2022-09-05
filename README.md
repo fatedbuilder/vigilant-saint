@@ -1,0 +1,1 @@
+Environment configs and settings, scan results, data extracts, and other notable artifacts will be loaded here for my research. This may be helpful for others in the future and help to show transparency, reproducibility/replicability of work in cybersecurity research. Message jcb56430@marymount.edu if you have any questions. 
